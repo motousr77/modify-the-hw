@@ -122,6 +122,10 @@ EOS
 
     end
   end
+  # small check vagrant entrypoint Vagrantfile
+  # system("ls")
+  # puts 'done.'
+  # Vagrant run Vagrantfiel EVERY time after vagrant command executed (up, status)
 end
 
 # We need edition on every stage of node creating !!!

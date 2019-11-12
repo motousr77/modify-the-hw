@@ -1,3 +1,7 @@
+This git repository is a modified version of ther original developed by [Mumshad Mannambeth](https://github.com/mmumshad/kubernetes-the-hard-way).
+
+Step by step i will improve this code for more automation.
+
 > This tutorial is a modified version of the original developed by [Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way).
 
 This repository holds the supporting material for the [Certified Kubernetes Administrators Course](https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests). There are two major sections. 
